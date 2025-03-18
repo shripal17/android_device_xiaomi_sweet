@@ -77,7 +77,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     SweetinproSettingsProvider \
     SweetinproWifiOverlay \
-    SweetWifiOverlay
+    SweetWifiOverlay \
+    SweetSettingsOverlay
 
 # Power
 PRODUCT_COPY_FILES += \
